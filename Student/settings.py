@@ -25,7 +25,7 @@ SECRET_KEY = 'gh#ozef_ywda&*@zok++^^$$%)42mobn7i*=^!vgv4l&x_$rh!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['139.59.23.131']
+ALLOWED_HOSTS = ['139.59.23.131','njmis.school','www.njmis.school']
 
 
 # Application definition
